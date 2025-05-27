@@ -80,7 +80,7 @@ section.hidden {
 .notes-header {
     text-align: center;
     font-size: 0.9em;
-    margin-bottom: 20px; /* Adjusted from margin-top for search bar */
+    margin-bottom: 20px; 
     padding: 10px;
     background-color: rgba(0,0,0,0.4);
     border-radius: 5px;
@@ -95,7 +95,7 @@ section.hidden {
 
 .search-container {
     text-align: center;
-    margin-bottom: 30px; /* Increased bottom margin */
+    margin-bottom: 30px; 
 }
 #searchInput {
     padding: 10px;
